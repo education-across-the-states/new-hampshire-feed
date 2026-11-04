@@ -14,7 +14,7 @@ Subscribe to get every New Hampshire episode as it lands.
 
 Part of Education Across the States, covering education in the 50 states, the District of Columbia, and the U.S. territories. AI Generated</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:55:20 GMT</lastBuildDate>
     <atom:link href="https://educationacrossthestates.com/new-hampshire-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Education Across the States</itunes:author>
     <itunes:owner>
@@ -994,6 +994,32 @@ AI Generated</description>
     <guid isPermaLink="false">ep-3f76f4b4-6bbb-448c-bc76-a7914ebab4fe</guid>
     <pubDate>Wed, 04 Nov 2026 14:36:10 +0000</pubDate>
     <itunes:duration>459</itunes:duration>
+  </item>
+<item>
+    <title>[NH] NH Education Deep Dive — The Morning After: Question 2&apos;s Split Verdict</title>
+    <description>Unofficial November 3, 2026 Question 2 results, district by district: Hampton, Winnacunnet, Rochester, and Fall Mountain (by about eight votes) adopted the school tax cap, while Londonderry and five Seacoast districts won yes majorities and failed the sixty percent bar — and what the cap means for special education costs that districts cannot legally cut.
+
+Sources:
+- Seacoast Online, live election results and Question 2 district results, Nov 3-4, 2026: https://www.seacoastonline.com/story/news/politics/elections/2026/11/03/seacoast-new-hampshire-election-2026-live-updates-polls-results--live/92496018007/
+- My Keene Now, Monadnock-area election results, Nov 3-4, 2026: https://mykeenenow.com/news/219912-democrats-pick-up-monadnock-area-state-house-seats-as-more-town-results-come-in/
+- Town Underground, Londonderry general election results, Nov 3, 2026: https://townunderground.com/?p=13415
+- HB 1300, chaptered final version (Chapter 324, RSA 32:5-i), NH General Court: https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&amp;id=2080&amp;txtFormat=html
+- Reaching Higher NH, Understanding Tax Caps (incl. Newfound history): https://www.reachinghighernh.org/funding-tax-caps
+- Reaching Higher NH, What this Means: HB 1300, May 29, 2026: https://www.reachinghighernh.org/content-item/552/what-this-means-hb-1300
+- Reaching Higher NH, HB 1300 fact sheet (cost growth: health insurance, diesel, special education): https://www.reachinghighernh.org/UploadedFiles/Images/Fact%20sheet%20HB%201300.pdf
+- NEA-NH, Question 2 School Funding Caps Will Exacerbate Teacher Shortage, Oct 20, 2026: https://neanh.org/about-nea-nh/leaders/president/from-our-president/question-2-school-funding-caps-will-exacerbate
+- Josiah Bartlett Center / St. Anselm College Survey Center poll, Oct 2026: https://jbartlett.org/2026/10/nh-voters-want-localities-to-control-taxes-and-spending-most-underestimate-school-expenditures/
+- Ink Link, NH school leaders predict budget cuts under tax cap ballot question, Oct 15, 2026: https://nashua.inklink.news/nh-school-leaders-predict-budget-cuts-under-tax-cap-ballot-question/
+- Seacoast Online, Question 2 guide (ballot text, AG counting guidance), Oct 27, 2026: https://www.seacoastonline.com/story/news/politics/elections/2026/10/27/question-2-guide-new-hampshire-school-district-tax-cap-proposal/92219963007/
+- Granite State Report, NH School Tax Cap Question: What Three Court Orders Decided, Oct 2026: https://granitestatereport.com/2026/10/05/school-tax-cap-question-court-orders-public-hearings/
+- RSA 126-U (restraint and seclusion annual report, 126-U:8), NH General Court: http://www.gencourt.state.nh.us/rsa/html/x/126-u/126-u-mrg.htm
+- HB 1099, version adopted by both bodies (report due Nov 1, 2026), NH General Court: https://gc.nh.gov/bill_Status/pdf.aspx?id=33525&amp;q=billVersion
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1337692426099284/ac5626cf-254c-4fb4-b4a4-7aa3dd422fa5/ep-8079029c-5fb9-4348-9396-c8940f05f440.mp3" length="15144613" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8079029c-5fb9-4348-9396-c8940f05f440</guid>
+    <pubDate>Wed, 04 Nov 2026 16:45:02 +0000</pubDate>
+    <itunes:duration>1893</itunes:duration>
   </item>
   </channel>
 </rss>
